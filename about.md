@@ -1,18 +1,18 @@
 ---
-title: Colophon
+title: Ryan, That's Me!
 permalink: /about/
 layout: page
-excerpt: Hello peeps, I'm student of computer science from Banyuwangi, living in Jogjakarta. This blog for documentation about my programming journey, running on jekyll, hosting on netlify and using my own simple theme.
+excerpt: This is my personal webpage in which I will share my Cyber-security journeys.
 comments: false
 ---
 
-He's a student from Banyuwangi, living in Jogjakarta. the blog for documentation about his programming 🎒 journey, running on jekyll, hosting on [now.sh](http://now.sh) and using his own theme, he name it <a href="https://github.com/piharpi/jekyll-klise" target="_blank" rel="noopener">klisé</a>, he also loves to learning web technology; but he often forgot, that a reason why him doing the writing.
+I am currently finishing the Information Technology - Penetration Testing program at Cape Cod Community College. This blog will help to document my cyber-security journey from here on out.
+The site is written using jekyll and hosted on [GitHub](https://github.com). The theme for the site is called [klise](https://github.com/piharpi/jekyll-klise),
+written by [piharpi](https://github.com/piharpi/). 
 
-If you have a question about him or else, just send a letter to him.
+If you would like to know more about me, please e-mail me at the address below.
 
-You can [report](http://github.com/piharpi/jekyll-klise/issues/new) if there is an broken link(s) or somethings else.
-
-##### may u needs ✨
+You can report any issues with this site by clicking [here](http://github.com/BabyDaddyGamer/babydaddygamer.github.io/issues/new/).
 
 - {{ site.author.email }}
 - github.com/{{ site.author.username }}
